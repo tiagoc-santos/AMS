@@ -1,0 +1,2 @@
+este ficheiro está apenas no meu computador
+eu quero metê-lo no git
